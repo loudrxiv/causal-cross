@@ -1,0 +1,11 @@
+#!/usr/bin/bash
+
+#SBATCH --job-name=vae-base
+#SBATCH --output="/net/talisker/home/benos/mae117/Documents/research/dennis/containers/domain_adaptation/seqadapt/logs/%j.out"
+#SBATCH --error="/net/talisker/home/benos/mae117/Documents/research/dennis/containers/domain_adaptation/seqadapt/logs/%j.err"
+#SBATCH --gres=gpu:1
+#SBATCH --partition=dept_gpu
+
+ROOT="/net/talisker/home/benos/mae117/Documents/research/dennis/containers/domain_adaptation/seqadapt/src"
+
+Rscript "$ROOT/vae-base.R"

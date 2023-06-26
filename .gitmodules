@@ -1,0 +1,12 @@
+[submodule "models/Beta-VAE-Tensorflow-2.0"]
+	path = models/Beta-VAE-Tensorflow-2.0
+	url = https://github.com/alexbooth/Beta-VAE-Tensorflow-2.0.git
+[submodule "models/variational-zoo"]
+	path = models/variational-zoo
+	url = https://github.com/carbonati/variational-zoo.git
+[submodule "models/Beta-VAE"]
+	path = models/Beta-VAE
+	url = https://github.com/adityabingi/Beta-VAE.git
+[submodule "models/Variational-Autoencoders"]
+	path = models/Variational-Autoencoders
+	url = https://github.com/dn070017/Variational-Autoencoders.git

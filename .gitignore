@@ -1,6 +1,7 @@
 figures/
 data/
 logs/
-models/
 raw_data/
 run_jupyter.sh  
+.vscode
+models/

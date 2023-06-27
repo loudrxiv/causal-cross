@@ -15,14 +15,14 @@ library(glue)
 
 #" reticulate imports
 reticulate::use_condaenv("tf-R", conda="/net/talisker/home/benos/mae117/mambaforge/condabin/mamba")
-reticulate::source_python("src/betaVAE_VAs.py")
+reticulate::source_python("lcVAE.py")
 #tfpr   <- reticulate::import("tensorflow_probability")
 #wandb  <- reticulate::import("wandb")
 
 #----- Set up some 'constants'
 
-BATCH_SIZE = 400L
-VALBATCH_SIZE = 10000L
+BATCH_SIZE = 2**9
+VALBATCH_SIZE = 2**9
 
 HOCOMOCO = "/net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/data/hocomoco/human/hoc_pwms_hg_16.rdat"
 

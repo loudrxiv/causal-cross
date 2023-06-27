@@ -1,8 +1,8 @@
 from _utils import *
 
-class BetaVAE(tf.keras.Model):
+class lcVAE(tf.keras.Model):
   def __init__(self, pwm, latent_dim = 1, input_dims=[None, 4], kernel_size=3, strides=2, prefix='vae'):
-    super(BetaVAE, self).__init__()
+    super(lcVAE, self).__init__()
     self.prefix = prefix
     self.latent_dim = latent_dim
     self.input_dims = input_dims
@@ -14,7 +14,9 @@ class BetaVAE(tf.keras.Model):
     self.encoder = tf.keras.Sequential(
       layers = [
 
-        tf.keras.layers.InputLayer(input_shape = self.input_dims),
+        tf.keras.layers.InputLayer(
+          input_shape = self.input_dims,
+          name = "x_input"),
 
         tf.keras.layers.Conv1D(
           filters = self.pwm.shape[2],
@@ -37,8 +39,7 @@ class BetaVAE(tf.keras.Model):
 
         tf.keras.layers.Dense(2 * self.latent_dim)
       ],
-      name = "encoder"
-    )
+      name = "encoder")
   
     self.output_dims = compute_output_dims(
       input_dims=self.input_dims[-1],
@@ -75,19 +76,27 @@ class BetaVAE(tf.keras.Model):
     )
 
   def elbo(self, batch, **kwargs):
+    
     beta = kwargs['beta'] if 'beta' in kwargs else 1.0
+
     mean_z, logvar_z, z_sample, x_pred = self.forward(batch)
     
-    logpx_z = compute_log_bernouli_pdf(x_pred, batch)
-    
-    logpx_z = tf.reduce_sum(logpx_z, axis=[1, 2])
+    # try to use the BCE for this
+    bce = tf.keras.losses.BinaryCrossentropy(from_logits=True)
+    logpx_z = bce(batch, x_pred)
+
+    # Instead try analytical solution
+    #logpx_z = compute_log_bernouli_pdf(x_pred, batch)
     #logpx_z = tf.reduce_sum(logpx_z, axis=[1, 2, 3])
+    #logpx_z = compute_log_normal_pdf(mean_z, logvar_z, batch)
+    #logpx_z = tf.reduce_sum(logpx_z, axis=[1, 2])
     
     kl_divergence = tf.reduce_sum(compute_kl_divergence_standard_prior(mean_z, logvar_z), axis=1)
 
-    elbo = tf.reduce_mean(logpx_z - beta * kl_divergence)
+    elbo = logpx_z + beta * kl_divergence
+    #elbo =  tf.reduce_mean(logpx_z - beta * kl_divergence) # (elbo, tf.reduce_mean(logpx_z), tf.reduce_mean(kl_divergence))
 
-    return elbo, tf.reduce_mean(logpx_z), tf.reduce_mean(kl_divergence)
+    return elbo
 
   def train_step(self, batch, optimizers, **kwargs):
     with tf.GradientTape() as tape:
@@ -97,24 +106,37 @@ class BetaVAE(tf.keras.Model):
         
       return elbo, logpx_z, kl_divergence
 
-  def forward(self, batch, apply_sigmoid=False):
+  # def forward(self, batch, apply_sigmoid=False):
+  #   mean_z, logvar_z = self.encode(batch)
+  #   z_sample = self.reparameterize(mean_z, logvar_z)
+  #   x_pred = self.decode(z_sample, apply_sigmoid=apply_sigmoid)
+  
+  #   return mean_z, logvar_z, z_sample, x_pred
+  
+  def forward(self, batch, apply_softmax=True):
     mean_z, logvar_z = self.encode(batch)
     z_sample = self.reparameterize(mean_z, logvar_z)
-    x_pred = self.decode(z_sample, apply_sigmoid=apply_sigmoid)
+    x_pred = self.decode(z_sample, apply_softmax=apply_softmax)
   
     return mean_z, logvar_z, z_sample, x_pred
 
   def encode(self, batch):
     
     mean_z, logvar_z = tf.split(self.encoder(batch), num_or_size_splits=2, axis=-1)
-    #mean_z, logvar_z = tf.split(self.encoder(batch['x']), num_or_size_splits=2, axis=-1)
 
     return mean_z, logvar_z
 
-  def decode(self, z, apply_sigmoid=False):
+  # def decode(self, z, apply_sigmoid=False):
+  #   logits = self.decoder(z)
+  #   if apply_sigmoid:
+  #     probs = tf.sigmoid(logits)
+  #     return probs
+  #   return logits
+  
+  def decode(self, z, apply_softmax=True):
     logits = self.decoder(z)
-    if apply_sigmoid:
-      probs = tf.sigmoid(logits)
+    if apply_softmax:
+      probs = tf.nn.softmax(logits)
       return probs
     return logits
 
@@ -124,7 +146,7 @@ class BetaVAE(tf.keras.Model):
     return self.decode(z, apply_sigmoid=True)
 
   def reparameterize(self, mean, logvar):
-    eps = tf.random.normal(shape=mean.shape) # each distribution has its own epsilon
+    eps = tf.random.normal(shape=tf.shape(mean))
     return eps * tf.exp(logvar * .5) + mean
 
   def average_kl_divergence(self, batch):

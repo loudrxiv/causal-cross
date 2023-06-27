@@ -2,6 +2,8 @@ import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
 import tensorflow_probability as tfp
+tfd = tfp.distributions
+
 import os
 
 def compute_output_dims(input_dims, kernel_size, strides):

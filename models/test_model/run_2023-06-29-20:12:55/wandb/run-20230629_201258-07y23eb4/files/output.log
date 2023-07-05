@@ -1,0 +1,2024 @@
+
+Epoch 1/500
+WARNING:tensorflow:Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.0054s vs `on_train_batch_end` time: 0.0210s). Check your callbacks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4706/Unknown - 124s 24ms/step - loss: 121.7924
+Epoch 1: loss improved from inf to 121.76686, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 129s 25ms/step - loss: 121.7669 - lr: 0.0100
+Epoch 2/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 1.3933
+Epoch 2: loss improved from 121.76686 to 1.39332, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 120s 26ms/step - loss: 1.3933 - lr: 0.0100
+Epoch 3/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3880
+Epoch 3: loss improved from 1.39332 to 1.38802, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 122s 26ms/step - loss: 1.3880 - lr: 0.0100
+Epoch 4/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 1.3858
+Epoch 4: loss improved from 1.38802 to 1.38583, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 120s 26ms/step - loss: 1.3858 - lr: 0.0100
+Epoch 5/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3846
+Epoch 5: loss improved from 1.38583 to 1.38461, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3846 - lr: 0.0100
+Epoch 6/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 1.3838
+Epoch 6: loss improved from 1.38461 to 1.38383, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 122s 26ms/step - loss: 1.3838 - lr: 0.0100
+Epoch 7/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 1.3833
+Epoch 7: loss improved from 1.38383 to 1.38328, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3833 - lr: 0.0100
+Epoch 8/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3829
+Epoch 8: loss improved from 1.38328 to 1.38288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3829 - lr: 0.0100
+Epoch 9/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 1.3826
+Epoch 9: loss improved from 1.38288 to 1.38257, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3826 - lr: 0.0100
+Epoch 10/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3823
+Epoch 10: loss improved from 1.38257 to 1.38233, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3823 - lr: 0.0100
+Epoch 11/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3821
+Epoch 11: loss improved from 1.38233 to 1.38213, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3821 - lr: 0.0100
+Epoch 12/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 1.3820
+Epoch 12: loss improved from 1.38213 to 1.38197, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 120s 26ms/step - loss: 1.3820 - lr: 0.0100
+Epoch 13/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3818
+Epoch 13: loss improved from 1.38197 to 1.38184, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3818 - lr: 0.0100
+Epoch 14/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3817
+Epoch 14: loss improved from 1.38184 to 1.38173, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3817 - lr: 0.0100
+Epoch 15/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3816
+Epoch 15: loss improved from 1.38173 to 1.38163, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 120s 26ms/step - loss: 1.3816 - lr: 0.0100
+Epoch 16/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 1.3815
+Epoch 16: loss improved from 1.38163 to 1.38154, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3815 - lr: 0.0100
+Epoch 17/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 1.3815
+Epoch 17: loss improved from 1.38154 to 1.38147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3815 - lr: 0.0100
+Epoch 18/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3814
+Epoch 18: loss improved from 1.38147 to 1.38140, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3814 - lr: 0.0100
+Epoch 19/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3813
+Epoch 19: loss improved from 1.38140 to 1.38134, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 120s 25ms/step - loss: 1.3813 - lr: 0.0100
+Epoch 20/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3813
+Epoch 20: loss improved from 1.38134 to 1.38129, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 120s 26ms/step - loss: 1.3813 - lr: 0.0100
+Epoch 21/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3812
+Epoch 21: loss improved from 1.38129 to 1.38124, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 120s 26ms/step - loss: 1.3812 - lr: 0.0100
+Epoch 22/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3812
+Epoch 22: loss improved from 1.38124 to 1.38120, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3812 - lr: 0.0100
+Epoch 23/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3812
+Epoch 23: loss improved from 1.38120 to 1.38116, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3812 - lr: 0.0100
+Epoch 24/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3811
+Epoch 24: loss improved from 1.38116 to 1.38113, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3811 - lr: 0.0100
+Epoch 25/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 1.3811
+Epoch 25: loss improved from 1.38113 to 1.38109, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 121s 26ms/step - loss: 1.3811 - lr: 0.0100
+Epoch 26/500
+ 134/4707 [..............................] - ETA: 2:03 - loss: 1.3896
+ 213/4707 [>.............................] - ETA: 1:58 - loss: 1.3895
+ 293/4707 [>.............................] - ETA: 1:54 - loss: 1.3894
+ 375/4707 [=>............................] - ETA: 1:51 - loss: 1.3894
+ 456/4707 [=>............................] - ETA: 1:48 - loss: 1.3892
+ 537/4707 [==>...........................] - ETA: 1:46 - loss: 1.3891
+ 618/4707 [==>...........................] - ETA: 1:43 - loss: 1.3890
+ 701/4707 [===>..........................] - ETA: 1:41 - loss: 1.3890
+ 783/4707 [===>..........................] - ETA: 1:39 - loss: 1.3889
+ 862/4707 [====>.........................] - ETA: 1:37 - loss: 1.3888
+ 943/4707 [=====>........................] - ETA: 1:34 - loss: 1.3887
+1026/4707 [=====>........................] - ETA: 1:32 - loss: 1.3886
+1106/4707 [======>.......................] - ETA: 1:30 - loss: 1.3883
+1185/4707 [======>.......................] - ETA: 1:28 - loss: 1.3875
+1266/4707 [=======>......................] - ETA: 1:26 - loss: 1.3867
+1347/4707 [=======>......................] - ETA: 1:24 - loss: 1.3860
+1429/4707 [========>.....................] - ETA: 1:22 - loss: 1.3854
+1511/4707 [========>.....................] - ETA: 1:20 - loss: 1.3849
+1570/4707 [=========>....................] - ETA: 1:18 - loss: 1.3845
+1651/4707 [=========>....................] - ETA: 1:16 - loss: 1.3840
+1734/4707 [==========>...................] - ETA: 1:14 - loss: 1.3836
+1814/4707 [==========>...................] - ETA: 1:12 - loss: 1.3832
+1893/4707 [===========>..................] - ETA: 1:10 - loss: 1.3829
+1977/4707 [===========>..................] - ETA: 1:08 - loss: 1.3825
+2056/4707 [============>.................] - ETA: 1:06 - loss: 1.3822
+2138/4707 [============>.................] - ETA: 1:04 - loss: 1.3819
+2220/4707 [=============>................] - ETA: 1:02 - loss: 1.3820
+2299/4707 [=============>................] - ETA: 1:00 - loss: 1.3823
+2381/4707 [==============>...............] - ETA: 58s - loss: 1.3825
+2461/4707 [==============>...............] - ETA: 56s - loss: 1.3827
+2539/4707 [===============>..............] - ETA: 54s - loss: 1.3829
+2622/4707 [===============>..............] - ETA: 52s - loss: 1.3831
+2703/4707 [================>.............] - ETA: 50s - loss: 1.3833
+2784/4707 [================>.............] - ETA: 48s - loss: 1.3834
+2864/4707 [=================>............] - ETA: 46s - loss: 1.3836
+2947/4707 [=================>............] - ETA: 44s - loss: 1.3837
+3027/4707 [==================>...........] - ETA: 42s - loss: 1.3838
+3108/4707 [==================>...........] - ETA: 40s - loss: 1.3839
+3190/4707 [===================>..........] - ETA: 37s - loss: 1.3840
+3271/4707 [===================>..........] - ETA: 35s - loss: 1.3841
+3351/4707 [====================>.........] - ETA: 33s - loss: 1.3842
+3433/4707 [====================>.........] - ETA: 31s - loss: 1.3843
+3514/4707 [=====================>........] - ETA: 29s - loss: 1.3841
+3596/4707 [=====================>........] - ETA: 27s - loss: 1.3838
+3674/4707 [======================>.......] - ETA: 25s - loss: 1.3836
+3755/4707 [======================>.......] - ETA: 23s - loss: 1.3834
+3837/4707 [=======================>......] - ETA: 21s - loss: 1.3832
+3900/4707 [=======================>......] - ETA: 20s - loss: 1.3830
+3980/4707 [========================>.....] - ETA: 18s - loss: 1.3828
+4062/4707 [========================>.....] - ETA: 16s - loss: 1.3826
+4062/4707 [========================>.....] - ETA: 16s - loss: 1.3826
+4062/4707 [========================>.....] - ETA: 16s - loss: 1.3826
+4062/4707 [========================>.....] - ETA: 16s - loss: 1.3826
+4062/4707 [========================>.....] - ETA: 16s - loss: 1.3826
+4062/4707 [========================>.....] - ETA: 16s - loss: 1.3826
+4062/4707 [========================>.....] - ETA: 16s - loss: 1.3826
+4062/4707 [========================>.....] - ETA: 16s - loss: 1.3826
+Epoch 26: loss improved from 1.38109 to 1.38106, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 27/500duceLROnPlateau reducing learning rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 28: loss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 29/500ss did not improve from 1.38106ng rate to 0.0009999999776482583.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 31/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32/500ss did not improve from 1.38106ng rate to 9.999999310821295e-05.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 32: ReduceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+Epoch 33/500duceLROnPlateau reducing learning rate to 9.999999019782991e-06.er/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 117s 25ms/step - loss: 1.3862 - lr: 1.0000e-05ae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55
+4707/4707 [==============================] - 117s 25ms/step - loss: 1.3862 - lr: 1.0000e-05ae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:55

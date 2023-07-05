@@ -1,0 +1,162 @@
+
+Epoch 1/500
+     88/Unknown - 11s 16ms/step - loss: 33380.1836
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4706/Unknown - 84s 16ms/step - loss: 814.1894
+Epoch 1: loss improved from inf to 814.03638, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:29:49
+4707/4707 [==============================] - 87s 16ms/step - loss: 814.0364 - lr: 0.0010
+Epoch 2/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 73s 16ms/step - loss: 593.3382
+Epoch 2: loss improved from 814.03638 to 593.33820, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:29:49
+4707/4707 [==============================] - 76s 16ms/step - loss: 593.3382 - lr: 0.0010
+Epoch 3/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 1429.9791
+Epoch 3: loss did not improve from 593.33820
+4707/4707 [==============================] - 74s 16ms/step - loss: 1429.9791 - lr: 0.0010
+Epoch 4/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 73s 16ms/step - loss: 1072.2971
+Epoch 4: loss did not improve from 593.33820
+4707/4707 [==============================] - 73s 16ms/step - loss: 1072.2971 - lr: 0.0010
+Epoch 5/500
+
+

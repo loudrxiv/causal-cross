@@ -1,0 +1,204 @@
+{
+    "os": "Linux-5.4.0-148-generic-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-06-30T00:12:50.205183",
+    "startedAt": "2023-06-30T00:12:49.055450",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/loudrxiv/causal-cross.git",
+        "commit": "a39c176d086fa590e37a87caccf1fc827ff69cd4"
+    },
+    "email": "mae117@pitt.edu",
+    "root": "/net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation",
+    "host": "g014.csb.pitt.edu",
+    "username": "mae117",
+    "executable": "/net/talisker/home/benos/mae117/mambaforge/envs/tf-R/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 1302.6251249999996,
+        "min": 1200.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2668.461,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1200.642,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.453,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.988,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1328.166,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.844,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.746,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1205.235,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.481,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1204.427,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.455,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.697,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.746,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.257,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.779,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1202.308,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2719.946,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1201.598,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1201.206,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1200.643,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1316.404,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1201.498,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1200.914,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1200.13,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1200.442,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1200.183,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1201.179,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1200.704,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1200.951,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1201.001,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1200.411,
+            "min": 1200.0,
+            "max": 3000.0
+        },
+        {
+            "current": 1201.109,
+            "min": 1200.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "total": 57.2811393737793,
+        "used": 19.225486755371094
+    },
+    "gpu": "NVIDIA TITAN X (Pascal)",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA TITAN X (Pascal)",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 125.79298782348633
+    }
+}

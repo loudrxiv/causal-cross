@@ -1,0 +1,5 @@
+
+Epoch 1/500
+      1/Unknown - 9s 9s/step - loss: 5389.8032Batch 1: Invalid loss, terminating training
+Epoch 1: loss did not improve from inf
+2/2 [==============================] - 9s 276ms/step - loss: nan - lr: 0.0010

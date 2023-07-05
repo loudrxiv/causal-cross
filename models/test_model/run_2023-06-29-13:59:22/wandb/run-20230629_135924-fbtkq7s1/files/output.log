@@ -1,0 +1,812 @@
+
+Epoch 1/500
+     79/Unknown - 12s 16ms/step - loss: 314.0378
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4704/Unknown - 86s 16ms/step - loss: 19.1524
+Epoch 1: loss improved from inf to 19.14116, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:59:22
+4707/4707 [==============================] - 90s 17ms/step - loss: 19.1412 - lr: 0.0010
+Epoch 2/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 1.5591
+Epoch 2: loss improved from 19.14116 to 1.55913, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:59:22
+4707/4707 [==============================] - 77s 16ms/step - loss: 1.5591 - lr: 0.0010
+Epoch 3/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 76s 16ms/step - loss: 2.0856
+Epoch 3: loss did not improve from 1.55913
+4707/4707 [==============================] - 76s 16ms/step - loss: 2.0856 - lr: 0.0010
+Epoch 4/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.4389
+Epoch 4: loss improved from 1.55913 to 1.43892, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:59:22
+4707/4707 [==============================] - 78s 17ms/step - loss: 1.4389 - lr: 0.0010
+Epoch 5/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.4126
+Epoch 5: loss improved from 1.43892 to 1.41261, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:59:22
+4707/4707 [==============================] - 77s 16ms/step - loss: 1.4126 - lr: 0.0010
+Epoch 6/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 76s 16ms/step - loss: 1.3953
+Epoch 6: loss improved from 1.41261 to 1.39529, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:59:22
+4707/4707 [==============================] - 79s 17ms/step - loss: 1.3953 - lr: 0.0010
+Epoch 7/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.3861
+Epoch 7: loss improved from 1.39529 to 1.38613, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:59:22
+4707/4707 [==============================] - 78s 17ms/step - loss: 1.3861 - lr: 0.0010
+Epoch 8/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 76s 16ms/step - loss: 1.3810
+Epoch 8: loss improved from 1.38613 to 1.38102, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:59:22
+4707/4707 [==============================] - 78s 17ms/step - loss: 1.3810 - lr: 0.0010
+Epoch 9/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.3793
+Epoch 9: loss improved from 1.38102 to 1.37932, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:59:22
+4707/4707 [==============================] - 78s 16ms/step - loss: 1.3793 - lr: 0.0010
+Epoch 10/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.3784
+Epoch 10: loss improved from 1.37932 to 1.37841, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:59:22
+4707/4707 [==============================] - 77s 16ms/step - loss: 1.3784 - lr: 0.0010
+Epoch 11/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.3782
+Epoch 11: loss improved from 1.37841 to 1.37819, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:59:22
+4707/4707 [==============================] - 77s 16ms/step - loss: 1.3782 - lr: 0.0010
+Epoch 12/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 1.3782
+Epoch 12: loss improved from 1.37819 to 1.37817, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:59:22
+4707/4707 [==============================] - 76s 16ms/step - loss: 1.3782 - lr: 0.0010
+Epoch 13/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.3782
+Epoch 13: loss improved from 1.37817 to 1.37817, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:59:22
+4707/4707 [==============================] - 77s 16ms/step - loss: 1.3782 - lr: 0.0010
+Epoch 14/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.3782
+Epoch 14: loss did not improve from 1.37817
+Epoch 14: ReduceLROnPlateau reducing learning rate to 0.00010000000474974513.
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.3782 - lr: 0.0010
+Epoch 15/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 1.3799
+Epoch 15: loss did not improve from 1.37817
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.3799 - lr: 1.0000e-04
+Epoch 16/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 1.3800
+Epoch 16: loss did not improve from 1.37817
+4707/4707 [==============================] - 74s 16ms/step - loss: 1.3800 - lr: 1.0000e-04
+Epoch 17/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 1.3800
+Epoch 17: loss did not improve from 1.37817
+Epoch 17: ReduceLROnPlateau reducing learning rate to 1.0000000474974514e-05.
+4707/4707 [==============================] - 74s 16ms/step - loss: 1.3800 - lr: 1.0000e-04
+Epoch 18/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.3817
+Epoch 18: loss did not improve from 1.37817
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.3817 - lr: 1.0000e-05
+Epoch 19/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.3810
+Epoch 19: loss did not improve from 1.37817
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.3810 - lr: 1.0000e-05
+Epoch 20/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 1.3807
+Epoch 20: loss did not improve from 1.37817
+Restoring model weights from the end of the best epoch: 13.
+Epoch 20: ReduceLROnPlateau reducing learning rate to 1.0000000656873453e-06.
+4707/4707 [==============================] - 74s 16ms/step - loss: 1.3807 - lr: 1.0000e-05
+Epoch 20: early stopping

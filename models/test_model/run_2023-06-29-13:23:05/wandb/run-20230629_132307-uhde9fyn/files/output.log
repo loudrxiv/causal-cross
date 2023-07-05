@@ -1,0 +1,170 @@
+
+Epoch 1/500
+WARNING:tensorflow:Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.0066s vs `on_train_batch_end` time: 0.0095s). Check your callbacks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4706/Unknown - 85s 16ms/step - loss: 955331788005477433202442240.0000
+Epoch 1: loss improved from inf to 955197864643502301857710080.00000, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:23:05
+4707/4707 [==============================] - 88s 17ms/step - loss: 955197864643502301857710080.0000 - lr: 0.0010
+Epoch 2/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 73s 15ms/step - loss: 955192183046327599315812352.0000
+Epoch 2: loss improved from 955197864643502301857710080.00000 to 955192183046327599315812352.00000, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:23:05
+4707/4707 [==============================] - 75s 16ms/step - loss: 955192183046327599315812352.0000 - lr: 0.0010
+Epoch 3/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 954992220340568587776294912.0000
+Epoch 3: loss improved from 955192183046327599315812352.00000 to 954992220340568587776294912.00000, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:23:05
+4707/4707 [==============================] - 76s 16ms/step - loss: 954992220340568587776294912.0000 - lr: 0.0010
+Epoch 4/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 73s 16ms/step - loss: 955157650741421615035187200.0000
+Epoch 4: loss did not improve from 954992220340568587776294912.00000
+4707/4707 [==============================] - 73s 16ms/step - loss: 955157650741421615035187200.0000 - lr: 0.0010
+Epoch 5/500
+
+
+
+
+
+
+

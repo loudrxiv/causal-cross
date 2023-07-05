@@ -1,0 +1,364 @@
+{
+    "os": "Linux-5.4.0-148-generic-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-06-29T23:24:35.025734",
+    "startedAt": "2023-06-29T23:24:34.180632",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/loudrxiv/causal-cross.git",
+        "commit": "a39c176d086fa590e37a87caccf1fc827ff69cd4"
+    },
+    "email": "mae117@pitt.edu",
+    "root": "/net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation",
+    "host": "g131.csb.pitt.edu",
+    "username": "mae117",
+    "executable": "/net/talisker/home/benos/mae117/mambaforge/envs/tf-R/bin/python",
+    "cpu_count": 32,
+    "cpu_count_logical": 64,
+    "cpu_freq": {
+        "current": 1275.16009375,
+        "min": 1200.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3687.869,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.126,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.111,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.717,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.053,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.201,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.776,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.117,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.454,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.546,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.641,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.463,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.565,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.761,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.701,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1199.983,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.633,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.88,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.303,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.703,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1201.016,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.392,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.318,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.821,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.678,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.571,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.684,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.753,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.677,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.291,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1199.888,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.76,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3725.554,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1201.203,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.736,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1201.026,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1199.799,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.863,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1199.835,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1201.315,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.627,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.914,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.708,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.483,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.275,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.621,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1201.016,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1201.165,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.563,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.157,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.784,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1199.849,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.8,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.596,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.879,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.379,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.868,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.924,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.393,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.626,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.366,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1199.963,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.479,
+            "min": 1200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1200.816,
+            "min": 1200.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "total": 91.10879898071289,
+        "used": 11.87142562866211
+    },
+    "gpu": "NVIDIA A100-PCIE-40GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA A100-PCIE-40GB",
+            "memory_total": 42949672960
+        }
+    ],
+    "memory": {
+        "total": 93.08309936523438
+    }
+}

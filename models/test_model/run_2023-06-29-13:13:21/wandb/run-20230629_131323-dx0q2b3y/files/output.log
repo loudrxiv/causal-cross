@@ -1,0 +1,141 @@
+
+Epoch 1/500
+WARNING:tensorflow:Callback method `on_train_batch_end` is slow compared to the batch time (batch time: 0.0052s vs `on_train_batch_end` time: 0.0107s). Check your callbacks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4707/Unknown - 82s 15ms/step - loss: 15.7937
+Epoch 1: loss improved from inf to 15.79372, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:13:21
+4707/4707 [==============================] - 86s 16ms/step - loss: 15.7937 - lr: 0.0010
+Epoch 2/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 71s 15ms/step - loss: 2.5555
+Epoch 2: loss improved from 15.79372 to 2.55546, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:13:21
+4707/4707 [==============================] - 74s 16ms/step - loss: 2.5555 - lr: 0.0010
+Epoch 3/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 73s 15ms/step - loss: 1.8870
+Epoch 3: loss improved from 2.55546 to 1.88700, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:13:21
+4707/4707 [==============================] - 75s 16ms/step - loss: 1.8870 - lr: 0.0010
+Epoch 4/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

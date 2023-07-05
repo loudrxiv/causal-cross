@@ -13,16 +13,21 @@ library(pROC)
 library(tfruns)
 library(glue)
 
-#" reticulate imports
 reticulate::use_condaenv("tf-R", conda="/net/talisker/home/benos/mae117/mambaforge/condabin/mamba")
-reticulate::source_python("lcVAE.py")
-#tfpr   <- reticulate::import("tensorflow_probability")
-#wandb  <- reticulate::import("wandb")
+reticulate::source_python(paste0(getwd(), "/src/lcVAE.py"))
+reticulate::source_python(paste0(getwd(), "/src/nsfs.py"))
+
+#" reticulate imports
+wandb <- reticulate::import("wandb")
+tfpy  <- reticulate::import("tensorflow")
+tfpr  <- reticulate::import("tensorflow_probability")
+tfp   <- tfpr$distributions
+tfb   <- tfpr$bijectors
 
 #----- Set up some 'constants'
 
-BATCH_SIZE = 2**9
-VALBATCH_SIZE = 2**9
+BATCH_SIZE <- 2**9
+VALBATCH_SIZE <- 2**9
 
 HOCOMOCO = "/net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/data/hocomoco/human/hoc_pwms_hg_16.rdat"
 
@@ -84,8 +89,8 @@ tfs            = TFS[4]
 source_species = SPECIES[1]
 target_species = SPECIES[2]
 
-source_root = paste0(DATA_ROOT,source_species,"/",tfs,"/")
-target_root = paste0(DATA_ROOT,target_species,"/",tfs,"/")
+source_root = paste0(DATA_ROOT, source_species, "/", tfs, "/")
+target_root = paste0(DATA_ROOT, target_species, "/", tfs, "/")
 
 src_bindingtrainposfile = paste0(source_root, TRAIN_POS_FILENAME)
 src_bindingtrainnegfile = paste0(source_root, TRAIN_NEG_FILENAME)
@@ -269,34 +274,6 @@ gen_dataval <- function(path = "/net/talisker/home/benos/mae117/Documents/resear
 
 }
 
-recon_loss <- function(y_true, y_pred) { return(tf$reduce_mean(loss_binary_crossentropy(y_true, y_pred,label_smoothing = k_epsilon()))) }
-kl_loss    <- function(z_mean, z_logVar) { return(tf$reduce_mean(loss_kullback_leibler_divergence(z_mean, z_logVar))) }
-vae_loss   <- function(kl_loss, recon_loss) { return(  1E-4 * ((4 * kl_loss) + recon_loss) ) }
-
-mi_loss    <- function(z_src, y_pred) { 
-
-    # Get the marginal PDF of both inputs and their joint
-    marginal_y  <- tf$reduce_mean(y_pred, axis=1L)
-    marginal_zc <- tf$reduce_mean(z_src, axis=1L)
-    joint_yzc   <- tf$linalg$matmul(marginal_y, tf$transpose(marginal_zc))
-
-    # Get the entropy
-    marginal_y_entropy = -tf$reduce_sum(marginal_y * tf$math$log(marginal_y + k_epsilon()))
-    marginal_zc_entropy = -tf$reduce_sum(marginal_zc * tf$math$log(marginal_zc + k_epsilon()))
-    joint_yzc_entropy = -tf$reduce_sum(joint_yzc * tf$math$log(joint_yzc + k_epsilon()))
-
-    # Get the mutual informaton 
-    mi = marginal_y_entropy + marginal_zc_entropy - joint_yzc_entropy
-
-    # Check for NaNs and other invalid values
-    mi = tf$debugging$check_numerics(mi, "mi is NaN or Inf")
-    
-    return(mi) 
-    
-}
-
-total_loss <- function(kl_loss, recon_loss, mi_loss) { return(  1E-4 * (recon_loss - (4 * kl_loss)) + (0.1 * mi_loss) ) }
-
 make_ints = function(seqs){
   tmp      <- as.matrix(seqs)
   seqs_int <- apply(tmp, 2,function(x) as.factor(x) |> as.integer() - 1L)
@@ -307,28 +284,4 @@ make_1he = function(seqs){
   seq_ints <- make_ints(seqs)
   seqs_1he  <- tf$one_hot(seqs_int,4L) |> as.array()
   return(seqs_1he) 
-}
-
-plot_figure = function(name, data) {
-
-  name=paste0(FIGURE_ROOT, paste0(name, "_plot.pdf"))
-  
-  pdf(file=name)
-  
-  matplot(data,
-          metrics=NULL,
-          method="base",
-          theme_bw=ggplot2::theme_grey(),
-          type ="o",
-          xlab="epochs",
-          ylab="name",
-          main="Reconstruction (hg38)",
-          pch=c(19, 17),
-          col=c("blue","red"),
-          bg="lightblue",
-          bty="n"
-  )
-  grid()
-  legend("topright", c("tr. loss", "val. loss"), pch=c(19, 17), col=c("blue", "red"))
-  dev.off() 
 }

@@ -1,0 +1,2531 @@
+
+Epoch 1/500
+     71/Unknown - 24s 24ms/step - loss: 156.3751
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4707/Unknown - 140s 25ms/step - loss: 20.1245
+Epoch 1: loss improved from inf to 20.12451, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 153s 28ms/step - loss: 20.1245 - lr: 0.0010
+Epoch 2/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 11.0056
+Epoch 2: loss improved from 20.12451 to 11.00524, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 135s 29ms/step - loss: 11.0052 - lr: 0.0010
+Epoch 3/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 8.3226
+Epoch 3: loss improved from 11.00524 to 8.32250, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 148s 31ms/step - loss: 8.3225 - lr: 0.0010
+Epoch 4/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 6.8047
+Epoch 4: loss improved from 8.32250 to 6.80464, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 135s 29ms/step - loss: 6.8046 - lr: 0.0010
+Epoch 5/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 5.7997
+Epoch 5: loss improved from 6.80464 to 5.79960, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 146s 31ms/step - loss: 5.7996 - lr: 0.0010
+Epoch 6/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 5.0760
+Epoch 6: loss improved from 5.79960 to 5.07594, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 139s 29ms/step - loss: 5.0759 - lr: 0.0010
+Epoch 7/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 4.5274
+Epoch 7: loss improved from 5.07594 to 4.52737, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 147s 31ms/step - loss: 4.5274 - lr: 0.0010
+Epoch 8/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 4.1002
+Epoch 8: loss improved from 4.52737 to 4.10015, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 135s 29ms/step - loss: 4.1002 - lr: 0.0010
+Epoch 9/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 3.7574
+Epoch 9: loss improved from 4.10015 to 3.75736, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 144s 31ms/step - loss: 3.7574 - lr: 0.0010
+Epoch 10/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 3.4761
+Epoch 10: loss improved from 3.75736 to 3.47614, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 144s 31ms/step - loss: 3.4761 - lr: 0.0010
+Epoch 11/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 3.2406
+Epoch 11: loss improved from 3.47614 to 3.24057, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 142s 30ms/step - loss: 3.2406 - lr: 0.0010
+Epoch 12/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 3.0416
+Epoch 12: loss improved from 3.24057 to 3.04159, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 140s 30ms/step - loss: 3.0416 - lr: 0.0010
+Epoch 13/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 2.8728
+Epoch 13: loss improved from 3.04159 to 2.87275, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 131s 28ms/step - loss: 2.8727 - lr: 0.0010
+Epoch 14/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 2.7288
+Epoch 14: loss improved from 2.87275 to 2.72880, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 128s 27ms/step - loss: 2.7288 - lr: 0.0010
+Epoch 15/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 2.6056
+Epoch 15: loss improved from 2.72880 to 2.60559, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 128s 27ms/step - loss: 2.6056 - lr: 0.0010
+Epoch 16/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 2.4994
+Epoch 16: loss improved from 2.60559 to 2.49940, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 128s 27ms/step - loss: 2.4994 - lr: 0.0010
+Epoch 17/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 2.4073
+Epoch 17: loss improved from 2.49940 to 2.40725, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 127s 27ms/step - loss: 2.4073 - lr: 0.0010
+Epoch 18/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 2.3264
+Epoch 18: loss improved from 2.40725 to 2.32639, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 128s 27ms/step - loss: 2.3264 - lr: 0.0010
+Epoch 19/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 2.2552
+Epoch 19: loss improved from 2.32639 to 2.25515, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 128s 27ms/step - loss: 2.2551 - lr: 0.0010
+Epoch 20/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 2.1919
+Epoch 20: loss improved from 2.25515 to 2.19186, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 127s 27ms/step - loss: 2.1919 - lr: 0.0010
+Epoch 21/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 2.1353
+Epoch 21: loss improved from 2.19186 to 2.13527, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 127s 27ms/step - loss: 2.1353 - lr: 0.0010
+Epoch 22/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 2.0847
+Epoch 22: loss improved from 2.13527 to 2.08467, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 128s 27ms/step - loss: 2.0847 - lr: 0.0010
+Epoch 23/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 2.0393
+Epoch 23: loss improved from 2.08467 to 2.03933, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 127s 27ms/step - loss: 2.0393 - lr: 0.0010
+Epoch 24/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.9985
+Epoch 24: loss improved from 2.03933 to 1.99849, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 128s 27ms/step - loss: 1.9985 - lr: 0.0010
+Epoch 25/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 1.9618
+Epoch 25: loss improved from 1.99849 to 1.96174, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+4707/4707 [==============================] - 127s 27ms/step - loss: 1.9617 - lr: 0.0010
+Epoch 26/500
+ 112/4707 [..............................] - ETA: 2:01 - loss: 1.9559
+ 190/4707 [>.............................] - ETA: 1:59 - loss: 1.9576
+ 268/4707 [>.............................] - ETA: 1:56 - loss: 1.9563
+ 344/4707 [=>............................] - ETA: 1:55 - loss: 1.9567
+ 420/4707 [=>............................] - ETA: 1:53 - loss: 1.9570
+ 496/4707 [==>...........................] - ETA: 1:51 - loss: 1.9566
+ 574/4707 [==>...........................] - ETA: 1:49 - loss: 1.9560
+ 650/4707 [===>..........................] - ETA: 1:47 - loss: 1.9564
+ 728/4707 [===>..........................] - ETA: 1:45 - loss: 1.9556
+ 784/4707 [===>..........................] - ETA: 1:43 - loss: 1.9555
+ 862/4707 [====>.........................] - ETA: 1:41 - loss: 1.9550
+ 940/4707 [====>.........................] - ETA: 1:39 - loss: 1.9546
+1016/4707 [=====>........................] - ETA: 1:37 - loss: 1.9548
+1094/4707 [=====>........................] - ETA: 1:35 - loss: 1.9545
+1172/4707 [======>.......................] - ETA: 1:33 - loss: 1.9528
+1246/4707 [======>.......................] - ETA: 1:31 - loss: 1.9515
+1324/4707 [=======>......................] - ETA: 1:29 - loss: 1.9498
+1402/4707 [=======>......................] - ETA: 1:27 - loss: 1.9481
+1478/4707 [========>.....................] - ETA: 1:25 - loss: 1.9470
+1554/4707 [========>.....................] - ETA: 1:23 - loss: 1.9456
+1630/4707 [=========>....................] - ETA: 1:21 - loss: 1.9444
+1708/4707 [=========>....................] - ETA: 1:19 - loss: 1.9431
+1786/4707 [==========>...................] - ETA: 1:17 - loss: 1.9423
+1864/4707 [==========>...................] - ETA: 1:14 - loss: 1.9415
+1940/4707 [===========>..................] - ETA: 1:12 - loss: 1.9409
+2018/4707 [===========>..................] - ETA: 1:10 - loss: 1.9397
+2094/4707 [============>.................] - ETA: 1:08 - loss: 1.9390
+2172/4707 [============>.................] - ETA: 1:06 - loss: 1.9387
+2248/4707 [=============>................] - ETA: 1:04 - loss: 1.9387
+2306/4707 [=============>................] - ETA: 1:03 - loss: 1.9390
+2384/4707 [==============>...............] - ETA: 1:01 - loss: 1.9391
+2460/4707 [==============>...............] - ETA: 59s - loss: 1.9395
+2538/4707 [===============>..............] - ETA: 57s - loss: 1.9397
+2616/4707 [===============>..............] - ETA: 55s - loss: 1.9400
+2694/4707 [================>.............] - ETA: 53s - loss: 1.9403
+2770/4707 [================>.............] - ETA: 51s - loss: 1.9406
+2848/4707 [=================>............] - ETA: 48s - loss: 1.9407
+2926/4707 [=================>............] - ETA: 46s - loss: 1.9407
+3002/4707 [==================>...........] - ETA: 44s - loss: 1.9409
+3080/4707 [==================>...........] - ETA: 42s - loss: 1.9410
+3156/4707 [===================>..........] - ETA: 40s - loss: 1.9409
+3234/4707 [===================>..........] - ETA: 38s - loss: 1.9411
+3312/4707 [====================>.........] - ETA: 36s - loss: 1.9411
+3390/4707 [====================>.........] - ETA: 34s - loss: 1.9412
+3466/4707 [=====================>........] - ETA: 32s - loss: 1.9409
+3542/4707 [=====================>........] - ETA: 30s - loss: 1.9400
+3620/4707 [======================>.......] - ETA: 28s - loss: 1.9391
+3696/4707 [======================>.......] - ETA: 26s - loss: 1.9382
+3774/4707 [=======================>......] - ETA: 24s - loss: 1.9374
+3832/4707 [=======================>......] - ETA: 23s - loss: 1.9367
+3832/4707 [=======================>......] - ETA: 23s - loss: 1.9367
+3832/4707 [=======================>......] - ETA: 23s - loss: 1.9367
+3832/4707 [=======================>......] - ETA: 23s - loss: 1.9367
+3832/4707 [=======================>......] - ETA: 23s - loss: 1.9367
+3832/4707 [=======================>......] - ETA: 23s - loss: 1.9367
+3832/4707 [=======================>......] - ETA: 23s - loss: 1.9367
+3832/4707 [=======================>......] - ETA: 23s - loss: 1.9367
+3832/4707 [=======================>......] - ETA: 23s - loss: 1.9367
+3832/4707 [=======================>......] - ETA: 23s - loss: 1.9367
+3832/4707 [=======================>......] - ETA: 23s - loss: 1.9367
+3832/4707 [=======================>......] - ETA: 23s - loss: 1.9367
+Epoch 26: loss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27/500ss improved from 1.96174 to 1.92862, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 27: loss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28/500ss improved from 1.92862 to 1.89855, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 28: loss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29/500ss improved from 1.89855 to 1.87121, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 29: loss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30/500ss improved from 1.87121 to 1.84605, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 30: loss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31/500ss improved from 1.84605 to 1.82288, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 31: loss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32/500ss improved from 1.82288 to 1.80147, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32: loss improved from 1.80147 to 1.78156, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 32: loss improved from 1.80147 to 1.78156, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+  73/4707 [..............................] - ETA: 1:59 - loss: 1.7838/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 33: loss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34/500ss improved from 1.78156 to 1.76293, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 34: loss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35/500ss improved from 1.76293 to 1.74554, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 35: loss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36/500ss improved from 1.74554 to 1.72921, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 36: loss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37/500ss improved from 1.72921 to 1.71386, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 37: loss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38/500ss improved from 1.71386 to 1.69947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 38: loss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12
+Epoch 39/500ss improved from 1.69947 to 1.68597, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-17:54:12

@@ -1,7 +1,9 @@
-figures/
+# Directories to ignore
 data/
+figures/
 logs/
-raw_data/
-run_jupyter.sh  
-.vscode
-models/
+
+# In kept directories, I can filter out...
+models/bak
+models/domain_adaptation
+src/bak

@@ -1,0 +1,2011 @@
+
+Epoch 1/500
+     62/Unknown - 12s 23ms/step - loss: 25693.9492
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4707/Unknown - 129s 25ms/step - loss: 581.4545
+Epoch 1: loss improved from inf to 581.45447, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 133s 26ms/step - loss: 581.4545 - lr: 0.0100
+Epoch 2/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 10.9796
+Epoch 2: loss improved from 581.45447 to 10.97559, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 123s 26ms/step - loss: 10.9756 - lr: 0.0100
+Epoch 3/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 30.3444
+Epoch 3: loss did not improve from 10.97559
+4707/4707 [==============================] - 124s 26ms/step - loss: 30.3383 - lr: 0.0100
+Epoch 4/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 7.2786
+Epoch 4: loss improved from 10.97559 to 7.27734, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 129s 27ms/step - loss: 7.2773 - lr: 0.0100
+Epoch 5/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 46.5396
+Epoch 5: loss did not improve from 7.27734
+4707/4707 [==============================] - 124s 26ms/step - loss: 46.5396 - lr: 0.0100
+Epoch 6/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 5.9718
+Epoch 6: loss improved from 7.27734 to 5.97177, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 128s 27ms/step - loss: 5.9718 - lr: 0.0100
+Epoch 7/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 70.3595
+Epoch 7: loss did not improve from 5.97177
+4707/4707 [==============================] - 128s 27ms/step - loss: 70.3595 - lr: 0.0100
+Epoch 8/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 20.9562
+Epoch 8: loss did not improve from 5.97177
+4707/4707 [==============================] - 127s 27ms/step - loss: 20.9562 - lr: 0.0100
+Epoch 9/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 15.5534
+Epoch 9: loss did not improve from 5.97177
+Epoch 9: ReduceLROnPlateau reducing learning rate to 0.0009999999776482583.
+4707/4707 [==============================] - 126s 27ms/step - loss: 15.5534 - lr: 0.0100
+Epoch 10/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3949
+Epoch 10: loss improved from 5.97177 to 1.39489, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 129s 27ms/step - loss: 1.3949 - lr: 1.0000e-03
+Epoch 11/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.4225
+Epoch 11: loss did not improve from 1.39489
+4707/4707 [==============================] - 125s 26ms/step - loss: 1.4225 - lr: 1.0000e-03
+Epoch 12/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.4210
+Epoch 12: loss did not improve from 1.39489
+4707/4707 [==============================] - 124s 26ms/step - loss: 1.4210 - lr: 1.0000e-03
+Epoch 13/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.4179
+Epoch 13: loss did not improve from 1.39489
+Epoch 13: ReduceLROnPlateau reducing learning rate to 9.999999310821295e-05.
+4707/4707 [==============================] - 124s 26ms/step - loss: 1.4179 - lr: 1.0000e-03
+Epoch 14/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 1.3799
+Epoch 14: loss improved from 1.39489 to 1.37985, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 130s 28ms/step - loss: 1.3799 - lr: 1.0000e-04
+Epoch 15/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4705/4707 [============================>.] - ETA: 0s - loss: 1.3795
+Epoch 15: loss improved from 1.37985 to 1.37947, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 127s 27ms/step - loss: 1.3795 - lr: 1.0000e-04
+Epoch 16/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3793
+Epoch 16: loss improved from 1.37947 to 1.37930, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 126s 27ms/step - loss: 1.3793 - lr: 1.0000e-04
+Epoch 17/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3792
+Epoch 17: loss improved from 1.37930 to 1.37918, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 126s 27ms/step - loss: 1.3792 - lr: 1.0000e-04
+Epoch 18/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3791
+Epoch 18: loss improved from 1.37918 to 1.37910, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 128s 27ms/step - loss: 1.3791 - lr: 1.0000e-04
+Epoch 19/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3791
+Epoch 19: loss improved from 1.37910 to 1.37906, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 129s 27ms/step - loss: 1.3791 - lr: 1.0000e-04
+Epoch 20/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3790
+Epoch 20: loss improved from 1.37906 to 1.37899, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 128s 27ms/step - loss: 1.3790 - lr: 1.0000e-04
+Epoch 21/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3789
+Epoch 21: loss improved from 1.37899 to 1.37894, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 125s 27ms/step - loss: 1.3789 - lr: 1.0000e-04
+Epoch 22/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3789
+Epoch 22: loss improved from 1.37894 to 1.37892, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 126s 27ms/step - loss: 1.3789 - lr: 1.0000e-04
+Epoch 23/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3789
+Epoch 23: loss improved from 1.37892 to 1.37889, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+4707/4707 [==============================] - 129s 27ms/step - loss: 1.3789 - lr: 1.0000e-04
+Epoch 24/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4706/4707 [============================>.] - ETA: 0s - loss: 1.3789
+Epoch 24: loss improved from 1.37889 to 1.37887, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-20:12:46
+Epoch 24: ReduceLROnPlateau reducing learning rate to 9.999999019782991e-06.
+4707/4707 [==============================] - 127s 27ms/step - loss: 1.3789 - lr: 1.0000e-04
+Epoch 25/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - ETA: 0s - loss: 1.3812
+Epoch 25: loss did not improve from 1.37887
+4707/4707 [==============================] - 124s 26ms/step - loss: 1.3812 - lr: 1.0000e-05
+Epoch 26/500
+ 108/4707 [..............................] - ETA: 2:01 - loss: 1.3919
+ 159/4707 [>.............................] - ETA: 2:09 - loss: 1.3918
+ 239/4707 [>.............................] - ETA: 2:02 - loss: 1.3914
+ 316/4707 [=>............................] - ETA: 1:58 - loss: 1.3911
+ 395/4707 [=>............................] - ETA: 1:55 - loss: 1.3908
+ 473/4707 [==>...........................] - ETA: 1:53 - loss: 1.3905
+ 550/4707 [==>...........................] - ETA: 1:50 - loss: 1.3902
+ 629/4707 [===>..........................] - ETA: 1:48 - loss: 1.3899
+ 705/4707 [===>..........................] - ETA: 1:46 - loss: 1.3897
+ 780/4707 [===>..........................] - ETA: 1:44 - loss: 1.3894
+ 858/4707 [====>.........................] - ETA: 1:42 - loss: 1.3892
+ 937/4707 [====>.........................] - ETA: 1:39 - loss: 1.3890
+1013/4707 [=====>........................] - ETA: 1:37 - loss: 1.3888
+1090/4707 [=====>........................] - ETA: 1:35 - loss: 1.3885
+1168/4707 [======>.......................] - ETA: 1:33 - loss: 1.3878
+1244/4707 [======>.......................] - ETA: 1:31 - loss: 1.3870
+1322/4707 [=======>......................] - ETA: 1:29 - loss: 1.3864
+1398/4707 [=======>......................] - ETA: 1:27 - loss: 1.3858
+1475/4707 [========>.....................] - ETA: 1:25 - loss: 1.3852
+1533/4707 [========>.....................] - ETA: 1:23 - loss: 1.3848
+1608/4707 [=========>....................] - ETA: 1:21 - loss: 1.3843
+1686/4707 [=========>....................] - ETA: 1:19 - loss: 1.3838
+1763/4707 [==========>...................] - ETA: 1:17 - loss: 1.3834
+1840/4707 [==========>...................] - ETA: 1:15 - loss: 1.3830
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+1919/4707 [===========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27/500==========>..................] - ETA: 1:13 - loss: 1.3826
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 27: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30/500duceLROnPlateau reducing learning rate to 9.99999883788405e-07.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+Epoch 30: ReduceLROnPlateau reducing learning rate to 9.99999883788405e-08.
+4707/4707 [==============================] - 126s 27ms/step - loss: 1.3809 - lr: 1.0000e-07
+4707/4707 [==============================] - 126s 27ms/step - loss: 1.3809 - lr: 1.0000e-07

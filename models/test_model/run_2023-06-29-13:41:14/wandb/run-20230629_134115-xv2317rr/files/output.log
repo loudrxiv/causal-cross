@@ -1,0 +1,46 @@
+
+Epoch 1/500
+     88/Unknown - 12s 16ms/step - loss: 1.3865
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4707/Unknown - 84s 16ms/step - loss: 1.3660
+Epoch 1: loss improved from inf to 1.36603, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-13:41:14
+4707/4707 [==============================] - 87s 16ms/step - loss: 1.3660 - lr: 0.0010
+Epoch 2/500
+
+
+

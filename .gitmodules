@@ -10,3 +10,12 @@
 [submodule "models/Variational-Autoencoders"]
 	path = models/Variational-Autoencoders
 	url = https://github.com/dn070017/Variational-Autoencoders.git
+[submodule "models/--force"]
+	path = models/--force
+	url = https://github.com/dn070017/Variational-Autoencoders.git
+[submodule "models/cross-species-domain-adaptation"]
+	path = models/cross-species-domain-adaptation
+	url = https://github.com/seqcode/cross-species-domain-adaptation.git
+[submodule "models/multigps"]
+	path = models/multigps
+	url = https://github.com/seqcode/multigps.git

@@ -1,10 +1,18 @@
 import numpy as np
 import tensorflow as tf
-import matplotlib.pyplot as plt
 import tensorflow_probability as tfp
-tfd = tfp.distributions
+import absl.logging
+import datetime
+import wandb
 
-import os
+from tensorflow import keras
+from tensorflow.keras import mixed_precision
+
+tfd     = tfp.distributions
+tfb     = tfp.bijectors
+
+#mixed_precision.set_global_policy('mixed_float16')
+absl.logging.set_verbosity(absl.logging.ERROR)
 
 def compute_output_dims(input_dims, kernel_size, strides):
     output_shape = np.round((input_dims - kernel_size) / strides + 0.5) + 1.

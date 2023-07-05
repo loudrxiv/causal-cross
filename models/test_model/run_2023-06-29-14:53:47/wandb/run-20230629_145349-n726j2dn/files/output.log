@@ -1,0 +1,488 @@
+
+Epoch 1/500
+     87/Unknown - 12s 16ms/step - loss: 1492.1263
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4704/Unknown - 85s 16ms/step - loss: 2428.7014
+Epoch 1: loss improved from inf to 2428.40845, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-14:53:47
+4707/4707 [==============================] - 89s 17ms/step - loss: 2428.4084 - lr: 0.0010
+Epoch 2/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 73s 15ms/step - loss: 41610.7578
+Epoch 2: loss did not improve from 2428.40845
+4707/4707 [==============================] - 73s 16ms/step - loss: 41610.7578 - lr: 0.0010
+Epoch 3/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 4213.8276
+Epoch 3: loss did not improve from 2428.40845
+4707/4707 [==============================] - 74s 16ms/step - loss: 4213.8276 - lr: 0.0010
+Epoch 4/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 3970.3833
+Epoch 4: loss did not improve from 2428.40845
+Epoch 4: ReduceLROnPlateau reducing learning rate to 0.00010000000474974513.
+4707/4707 [==============================] - 74s 16ms/step - loss: 3970.3833 - lr: 0.0010
+Epoch 5/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 73s 15ms/step - loss: 3687.4348
+Epoch 5: loss did not improve from 2428.40845
+4707/4707 [==============================] - 73s 15ms/step - loss: 3687.4348 - lr: 1.0000e-04
+Epoch 6/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 3097.7566
+Epoch 6: loss did not improve from 2428.40845
+4707/4707 [==============================] - 74s 16ms/step - loss: 3097.7566 - lr: 1.0000e-04
+Epoch 7/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 72s 15ms/step - loss: 690233671680.0000
+Epoch 7: loss did not improve from 2428.40845
+Epoch 7: ReduceLROnPlateau reducing learning rate to 1.0000000474974514e-05.
+4707/4707 [==============================] - 72s 15ms/step - loss: 690233671680.0000 - lr: 1.0000e-04
+Epoch 8/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 73s 16ms/step - loss: 769.5383
+Epoch 8: loss improved from 2428.40845 to 769.53827, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-14:53:47
+4707/4707 [==============================] - 76s 16ms/step - loss: 769.5383 - lr: 1.0000e-05
+Epoch 9/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 73s 16ms/step - loss: 767.1559
+Epoch 9: loss improved from 769.53827 to 767.15588, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-14:53:47
+4707/4707 [==============================] - 76s 16ms/step - loss: 767.1559 - lr: 1.0000e-05
+Epoch 10/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 708.2087
+Epoch 10: loss improved from 767.15588 to 708.20868, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-14:53:47
+4707/4707 [==============================] - 76s 16ms/step - loss: 708.2087 - lr: 1.0000e-05
+Epoch 11/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 74s 16ms/step - loss: 735801216.0000
+Epoch 11: loss did not improve from 708.20868
+4707/4707 [==============================] - 74s 16ms/step - loss: 735801216.0000 - lr: 1.0000e-05
+Epoch 12/500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4707/4707 [==============================] - 73s 15ms/step - loss: 426.8665
+Epoch 12: loss improved from 708.20868 to 426.86652, saving model to /net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/models/test_model/run_2023-06-29-14:53:47
+4707/4707 [==============================] - 75s 16ms/step - loss: 426.8665 - lr: 1.0000e-05
+Epoch 13/500
+
+
+
+
+
+
+
+

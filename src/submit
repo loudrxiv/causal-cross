@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+#SBATCH --partition=any_gpu
+#SBATCH --gres=gpu:1
+#SBATCH --mem-per-gpu=20G
+#SBATCH --output=/net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/logs/%j.out
+#SBATCH --error=/net/talisker/home/benos/mae117/Documents/research/dennis/causal-domain-adaptation/logs/%j.err
+
+Rscript $1
